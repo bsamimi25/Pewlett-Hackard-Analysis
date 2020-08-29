@@ -9,6 +9,7 @@ The purpose of this project was to determine the number of retiring employees pe
 - There are **90,398 individuals** who are retiring based on the birth dates from 01-01-1952 and 12-31-1955.
 - There are 1,549 individuals who are **eligible** for the mentorship program.
 - Employees with Manager as title had the **least** amount of retireing individuals. 
+<img width="497" alt="Screen Shot 2020-08-29 at 1 35 46 PM" src="https://user-images.githubusercontent.com/67808057/91645747-b1aa9b80-e9fc-11ea-81d4-ad7e6265afba.png">
 
 ## Summary 
 Overall, we were able to determine which people are soon to be retired and who is eligible for the employee mentorship program.
